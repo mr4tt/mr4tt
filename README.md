@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a UX/UI designer at UC San Diego. 
+I'm a UX/UI designer at UC San Diego with interests in cybersecurity/DevOps :)
 
 <!--
 **mr4tt/mr4tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
