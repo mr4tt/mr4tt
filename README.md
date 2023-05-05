@@ -1,7 +1,7 @@
 ### Hello!
 
 ![rubypfp](https://user-images.githubusercontent.com/78581772/236361741-6ef56cee-ad91-4314-ab52-5e2da322f4be.gif#gh-light-mode-only)
-![rubydarkpfp](https://user-images.githubusercontent.com/78581772/236584992-3a8be9e4-2388-4d7d-a5fc-2a3b12a6436e.gif#gh-dark-mode-only)
+![rubydark2pfp](https://user-images.githubusercontent.com/78581772/236585595-f7fac431-913c-4201-8a5f-1431e161beac.gif#gh-dark-mode-only)
 
 I'm a UX/UI designer at UC San Diego with interests in cybersecurity/DevOps :)
 
