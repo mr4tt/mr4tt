@@ -1,6 +1,6 @@
 ### Hello!
 
-![rubypfp](https://user-images.githubusercontent.com/78581772/236361741-6ef56cee-ad91-4314-ab52-5e2da322f4be.gif#gh-dark-mode-only)
+![rubypfp](https://user-images.githubusercontent.com/78581772/236361741-6ef56cee-ad91-4314-ab52-5e2da322f4be.gif#gh-light-mode-only)
 
 I'm a UX/UI designer at UC San Diego with interests in cybersecurity/DevOps :)
 
