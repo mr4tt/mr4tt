@@ -2,6 +2,7 @@
 
 I'm a UX/UI designer at UC San Diego with interests in cybersecurity/DevOps :)
 
+Portfolio: https://mrat.notion.site/Crystal-Zhan-d474a855a937418e89a0207f940bf145
 <!--
 **mr4tt/mr4tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
