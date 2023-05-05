@@ -1,5 +1,7 @@
 ### Hello!
 
+![rubypfp](https://user-images.githubusercontent.com/78581772/236361741-6ef56cee-ad91-4314-ab52-5e2da322f4be.gif)
+
 I'm a UX/UI designer at UC San Diego with interests in cybersecurity/DevOps :)
 
 Portfolio: https://mrat.notion.site/Crystal-Zhan-d474a855a937418e89a0207f940bf145
